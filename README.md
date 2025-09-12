@@ -14,9 +14,9 @@ For purchases that are coming through the department, complete the purchase requ
 ## Project Preferences
 View current team perferences here:
 
-[Current Team Perferences]()
+[Current Team Perferences](https://livealbany-my.sharepoint.com/:x:/g/personal/jmuckell_albany_edu/EY_dg4uZ4xVEvlr32C7VCy0BMB_VQVFFj9IykNlhChTojQ?e=hk52sG)
 
-To add/update your preferences, you can do so immediately after class or by emailing the course TA. 
+To add/update your preferences, you can do so immediately before or after class or by emailing the course TA (Joy Saha:  jsaha2 "at" albany.edu). 
 
 ## Peer Evaluation 
 At the end of the semester, you will complete an evaluation of your teammates.  
