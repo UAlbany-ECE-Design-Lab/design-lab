@@ -1,11 +1,11 @@
-# Design Lab Course Materials
+# ECE490/1: Design Lab I/II
 
-# Syllabus 
+# Course Syllabi 
 * **ECE490 Syllabus:** 
 * **ECE491 Syllabus:**
 
-# Summary of Deliverables (Checkpoints)
-
+# Course Checkpoints & Deliverables
+How to prepare for meetings, instructor/TA meeting agendas, and summary / quick reference for all course deliverables
 * **ECE490 Checkpoints and Deliverables:** 
 * **ECE490 Checkpoints and Deliverables:**
 
