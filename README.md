@@ -1,7 +1,7 @@
 # ECE490/1: Design Lab I/II
 
 ## Course Syllabi 
-* **ECE490 Syllabus:** https://github.com/UAlbany-ECE-Design-Lab/design-lab/blob/main/ECE490_Syllabus.docx
+* **[ECE490 Syllabus](https://github.com/UAlbany-ECE-Design-Lab/design-lab/blob/main/ECE490_Syllabus.docx)** 
 * **ECE491 Syllabus:** https://github.com/UAlbany-ECE-Design-Lab/design-lab/blob/main/ECE491_Syllabus.docx
 
 ## Course Checkpoints & Deliverables
