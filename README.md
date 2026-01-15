@@ -2,12 +2,12 @@
 
 ## Course Syllabi 
 * **[ECE490 Syllabus](https://github.com/UAlbany-ECE-Design-Lab/design-lab/blob/main/ECE490_Syllabus.docx)** 
-* **ECE491 Syllabus:** https://github.com/UAlbany-ECE-Design-Lab/design-lab/blob/main/ECE491_Syllabus.docx
+* **[ECE491 Syllabus](https://github.com/UAlbany-ECE-Design-Lab/design-lab/blob/main/ECE491_Syllabus.docx)** 
 
 ## Course Checkpoints & Deliverables
 Quick reference guide summarizing expectations, due dates, and all course deliverables.
-* **ECE490 Checkpoints and Deliverables:** https://github.com/UAlbany-ECE-Design-Lab/design-lab/blob/main/ECE490_Checkpoint_Breakdown.docx 
-* **ECE490 Checkpoints and Deliverables:** https://github.com/UAlbany-ECE-Design-Lab/design-lab/blob/main/ECE491_Checkpoint_Breakdown.docx
+* **[ECE490 Checkpoints and Deliverables](https://github.com/UAlbany-ECE-Design-Lab/design-lab/blob/main/ECE490_Checkpoint_Breakdown.docx)** 
+* **[ECE490 Checkpoints and Deliverables](https://github.com/UAlbany-ECE-Design-Lab/design-lab/blob/main/ECE491_Checkpoint_Breakdown.docx)** 
 
 ## Ordering Parts
 
@@ -33,7 +33,3 @@ Always make sure to keep an updated Bill of Materials (BOM) and track purchases 
 * When possible, aggegrate purchases to from specific vendors.  This reduces shipping cost and simplifies ordering.  
 * We are a non-profit institution and sales tax exempt.  We have established sales tax exempted accounts with common major suppliers {Digikey, Mouser, Amazon}. 
 * Purchases can be made with other vendors, but please keep in mind that if we do not already have a sales tax exempt account set-up, the ordering process will take extra time. 
-
-
-To add/update your preferences, you can do so immediately before or after class or by emailing the course TA (Joy Saha:  jsaha2 "at" albany.edu). 
-
