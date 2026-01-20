@@ -24,7 +24,7 @@ Always make sure to keep an updated Bill of Materials (BOM) and track purchases 
 * Include a breakdown of the parts requested, filling out the spreadsheet available here ([Purchase Request Template]([https://forms.office.com/r/z2SG6gwk0H](https://github.com/UAlbany-ECE-Design-Lab/design-lab/blob/main/Purchase%20Request%20Template.xlsx)))
 * Check vendor considerations below. 
 * Check shipping costs, estimated delivery dates, and ensure parts are in-stock.
-* Send an email to your stakeholder, faculty mentor, capstone instructors, and TA 
+* Send an email to your stakeholder, faculty mentor, capstone instructors, and TA (jsaha2@albany.edu)
 * Obtain approval from your stakeholder approval
 * Obtain capstone instructor approval
 * Once approved, the TA will work on getting the parts ordered and notify you when they have arrived.  
