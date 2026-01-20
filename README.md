@@ -1,13 +1,13 @@
 # ECE490/1: Design Lab I/II
 
 ## Course Syllabi 
-* **[ECE490 Syllabus](https://github.com/UAlbany-ECE-Design-Lab/design-lab/blob/main/ECE490_Syllabus.docx)** 
-* **[ECE491 Syllabus](https://github.com/UAlbany-ECE-Design-Lab/design-lab/blob/main/ECE491_Syllabus.docx)** 
+* **[ECE490 Syllabus](https://github.com/UAlbany-ECE-Design-Lab/design-lab/blob/main/ECE490_Syllabus.pdf)** 
+* **[ECE491 Syllabus](https://github.com/UAlbany-ECE-Design-Lab/design-lab/blob/main/ECE491_Syllabus.pdf)** 
 
 ## Course Checkpoints & Deliverables
 Quick reference guide summarizing expectations, due dates, and all course deliverables.
-* **[ECE490 Checkpoints and Deliverables](https://github.com/UAlbany-ECE-Design-Lab/design-lab/blob/main/ECE490_Checkpoint_Breakdown.docx)** 
-* **[ECE490 Checkpoints and Deliverables](https://github.com/UAlbany-ECE-Design-Lab/design-lab/blob/main/ECE491_Checkpoint_Breakdown.docx)** 
+* **[ECE490 Checkpoints and Deliverables](https://github.com/UAlbany-ECE-Design-Lab/design-lab/blob/main/ECE490_Checkpoint_Breakdown.pdf)** 
+* **[ECE490 Checkpoints and Deliverables](https://github.com/UAlbany-ECE-Design-Lab/design-lab/blob/main/ECE491_Checkpoint_Breakdown.pdf)** 
 
 ## Ordering Parts
 
