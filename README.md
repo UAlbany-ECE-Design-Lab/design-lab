@@ -1,13 +1,13 @@
 # ECE490/1: Design Lab I/II
 
 ## Course Syllabi 
-* **[ECE490 Syllabus](https://github.com/UAlbany-ECE-Design-Lab/design-lab/blob/main/ECE490_Syllabus.docx)** 
-* **[ECE491 Syllabus](https://github.com/UAlbany-ECE-Design-Lab/design-lab/blob/main/ECE491_Syllabus.docx)** 
+* **[ECE490 Syllabus](https://github.com/UAlbany-ECE-Design-Lab/design-lab/blob/main/ECE490_Syllabus.pdf)** 
+* **[ECE491 Syllabus](https://github.com/UAlbany-ECE-Design-Lab/design-lab/blob/main/ECE491_Syllabus.pdf)** 
 
 ## Course Checkpoints & Deliverables
 Quick reference guide summarizing expectations, due dates, and all course deliverables.
-* **[ECE490 Checkpoints and Deliverables](https://github.com/UAlbany-ECE-Design-Lab/design-lab/blob/main/ECE490_Checkpoint_Breakdown.docx)** 
-* **[ECE490 Checkpoints and Deliverables](https://github.com/UAlbany-ECE-Design-Lab/design-lab/blob/main/ECE491_Checkpoint_Breakdown.docx)** 
+* **[ECE490 Checkpoints and Deliverables](https://github.com/UAlbany-ECE-Design-Lab/design-lab/blob/main/ECE490_Checkpoint_Breakdown.pdf)** 
+* **[ECE490 Checkpoints and Deliverables](https://github.com/UAlbany-ECE-Design-Lab/design-lab/blob/main/ECE491_Checkpoint_Breakdown.pdf)** 
 
 ## Ordering Parts
 
@@ -24,7 +24,7 @@ Always make sure to keep an updated Bill of Materials (BOM) and track purchases 
 * Include a breakdown of the parts requested, filling out the spreadsheet available here ([Purchase Request Template]([https://forms.office.com/r/z2SG6gwk0H](https://github.com/UAlbany-ECE-Design-Lab/design-lab/blob/main/Purchase%20Request%20Template.xlsx)))
 * Check vendor considerations below. 
 * Check shipping costs, estimated delivery dates, and ensure parts are in-stock.
-* Send an email to your stakeholder, faculty mentor, capstone instructors, and TA 
+* Send an email to your stakeholder, faculty mentor, capstone instructors, and TA (jsaha2@albany.edu)
 * Obtain approval from your stakeholder approval
 * Obtain capstone instructor approval
 * Once approved, the TA will work on getting the parts ordered and notify you when they have arrived.  
