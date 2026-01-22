@@ -9,6 +9,11 @@ Quick reference guide summarizing expectations, due dates, and all course delive
 * **[ECE490 Checkpoints and Deliverables](https://github.com/UAlbany-ECE-Design-Lab/design-lab/blob/main/ECE490_Checkpoint_Breakdown.pdf)** 
 * **[ECE490 Checkpoints and Deliverables](https://github.com/UAlbany-ECE-Design-Lab/design-lab/blob/main/ECE491_Checkpoint_Breakdown.pdf)** 
 
+## Team Meeting Schedule
+
+See the schedule for your regular team meetings here
+* **[Team Meeting Schedule](https://livealbany-my.sharepoint.com/:x:/g/personal/jmuckell_albany_edu/IQCxD2VkOaVZRLeJ3aVVQ2JTAa1AToUe_URgEB56XdOzdEA?e=WdOxTw)** 
+
 ## Ordering Parts
 
 ### Purchasing Options: 
