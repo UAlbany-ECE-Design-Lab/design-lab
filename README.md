@@ -7,7 +7,7 @@
 ## Course Checkpoints & Deliverables
 Quick reference guide summarizing expectations, due dates, and all course deliverables.
 * **[ECE490 Checkpoints and Deliverables](https://github.com/UAlbany-ECE-Design-Lab/design-lab/blob/main/ECE490_Checkpoint_Breakdown.pdf)** 
-* **[ECE490 Checkpoints and Deliverables](https://github.com/UAlbany-ECE-Design-Lab/design-lab/blob/main/ECE491_Checkpoint_Breakdown.pdf)** 
+* **[ECE491 Checkpoints and Deliverables](https://github.com/UAlbany-ECE-Design-Lab/design-lab/blob/main/ECE491_Checkpoint_Breakdown.pdf)** 
 
 ## Team Meeting Schedule
 
